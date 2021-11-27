@@ -10,3 +10,9 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+1)Abhishek Mishra
+2)Divide and Conquer Algorithms
+3)1.Divide and conquer is a type of algorithm design
+  2.The problem is divided into smaller sub problems that can be easily solved
+  3.Then each problem is solved in order to save the entire problem
+
